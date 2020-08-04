@@ -1,0 +1,30 @@
+{
+  "name": "APIthing",
+  "version": "0.0.1",
+  "main": "server.js",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "better-sqlite3": "^7.1.0",
+    "body-parser": "^1.19.0",
+    "color-scheme": "latest",
+    "express": "^4.17.1",
+    "fs": "latest",
+    "hex-to-hsl": "latest",
+    "jimp": "^0.14.0",
+    "node-cron": "^2.0.3",
+    "node-fetch": "^2.6.0",
+    "node-html-to-image": "latest",
+    "puppeteer": "^5.2.0",
+    "request": "^2.88.2",
+    "satelize": "^0.2.0",
+    "sqlite3": "latest",
+    "vega": "^5.13.0",
+    "vega-lite": "^4.13.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: No test specified \" && exit 1",
+    "start": "nodemon index.js"
+  }
+}
