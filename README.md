@@ -1,7 +1,7 @@
 # API
 ~~Heya, so this is my API, and thereby the new and improved README.md~~ pfsssh you call that new? [yeah right broski](https://BrAIn-API.tk/)
 
-This API is really a general use API that will be used to connect systems and create an IoT system (eventually, not at that point just yet :P), I'm working on adding additional, more complex, routes to it along with fixing up the routes that I currently have (express acts a bit funky when working in a more modular way like I am here). I have an actual ton more things that I want to do and a ton of things that I want to either do differently or make it more complex (being more self-sufficient on certain things for example), you can find a To-Do list of my tasks here: https://trello.com/b/rtyhPHep
+This API is really a general use API that will be used to connect systems and create an IoT system (eventually, not at that point just yet :P), I'm working on adding additional, more complex, routes to it along with fixing up the routes that I currently have (express acts a bit funky when working in a more modular way like I am here). I have an actual ton more things that I want to do and a ton of things that I want to either do differently or make it more complex (being more self-sufficient on certain things for example), you can find a To-Do list of my tasks here: https://trello.com/b/rtyhPHep and my changelog here: https://github.com/LucAngevare/BrAIn-API/blob/master/docs/CHANGELOG.md
 
 
 # BrAIn API Documentation
