@@ -1,0 +1,41 @@
+{
+    "centimeter": "cm",
+    "feet": "ft",
+    "foot": "ft",
+    "inch": "in",
+    "inches": "in",
+    "kilometer": "km",
+    "meter": "m",
+    "mile": "mi",
+    "millimeter": "mm",
+    "yard": "yd",
+
+    "kilogram": "kg",
+    "gram": "g",
+    "milligram": "mg",
+    "ounce": "oz",
+    "pound": "lb",
+
+    "cup": "c",
+    "gallon": "gal",
+    "liter": "l",
+    "milliliter": "ml",
+    "pint": "pt",
+    "quart": "qt",
+    "teaspoon": "tsp",
+
+    "calorie": "cal",
+    "celsius": "C",
+    "degrees celsius": "C",
+    "degrees centigrade": "C",
+    "degrees fahrenheit": "F",
+    "degrees kelvin": "K",
+    "kelvin": "K",
+    "fahrenheit": "F",
+    "kilocalorie": "kcal",
+
+    "knots": "kn",
+    "kilometers per hour": "kph",
+    "miles per hour": "mph",
+    "nautical miles per hour": "nm"
+}

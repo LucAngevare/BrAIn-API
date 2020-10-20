@@ -1,0 +1,22 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": `The SIR epidemic model, steps of ${delT} with a max time of ${maxTime}`,
+  "data": {
+    "values": [
+      "Time": dates
+      "Susceptible": output.S,
+      "Infected": output.I,
+      "Recovered": output.R,
+    ]
+  },
+  "transform": [
+    {"flatten": ["Time", "Susceptible", "Infected", "Recovered"]},
+    {"fold": ["Susceptible", "Infected", "Recovered"], "as": ["SIR", "Population"]}
+  ],
+  "mark": {"type": "line", "point": {"filled": false, "fill": "white"}},
+  "encoding": {
+    "x": {"field": "Time", "type": "quantitative"},
+    "y": {"field": "Population", "type": "quantitative"},
+    "color": {"field": "SIR", "type": "nominal"}
+  }
+}

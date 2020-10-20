@@ -1,0 +1,19 @@
+{
+  "Radio 538 top 40":
+    {
+      "streamURL": "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR02.mp3",
+      "desc": "Radio 538 Top 40"
+    },
+    "Slam FM": {
+      "streamURL": "http://stream.radiocorp.nl/web10_mp3",
+      "desc": "Play Music, Play Life"
+    },
+    "Sky radio": {
+      "streamURL": "https://20043.live.streamtheworld.com/SRGSTR01.mp3",
+      "desc": "The Feelgood Station!"
+    },
+    "Qmusic": {
+      "streamURL": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_classics_96.mp3",
+      "desc": "Q sounds better with you!"
+    }
+}

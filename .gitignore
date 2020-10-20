@@ -1,0 +1,12 @@
+#don't worry git, I'm not ignoring you, I just... I don't feel like talking to you.
+
+node_modules/
+**node_modules/
+"node_modules/"
+.env
+commands/host/media/
+commands/movie/movies/
+news.db
+logo.ai
+images/
+out/
